@@ -1,0 +1,9 @@
+.blockWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.networkHeader {
+  font-size: 30px;
+  margin-bottom: 25px;
+}

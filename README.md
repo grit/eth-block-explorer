@@ -1,2 +1,2 @@
 # eth-block-explorer
-Basic Ethereum block explorer build with React and Ethers
+Basic Ethereum block explorer built with React and Ethers
