@@ -3,8 +3,6 @@ import BlockDetails from './components/BlockDetails/BlockDetails';
 import TransactionDetails from './components/TransactionDetails/TransactionDetails';
 
 import { ethers } from 'ethers';
-import dotenv from 'dotenv';
-dotenv.config();
 
 import styles from './App.module.css';
 import BlockWrapper from './components/BlockWrapper/BlockWrapper';

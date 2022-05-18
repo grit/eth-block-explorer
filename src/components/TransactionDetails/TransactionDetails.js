@@ -2,8 +2,6 @@ import { useEffect, useState } from 'react';
 
 import styles from './TransactionDetails.module.css';
 import { ethers } from 'ethers';
-import dotenv from 'dotenv';
-dotenv.config();
 
 const goerli = new ethers.providers.JsonRpcProvider(process.env.ALCHEMY_GOERLI);
 
